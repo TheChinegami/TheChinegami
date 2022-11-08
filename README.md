@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheChinegami
+- 👋 Hi, I’m Mohammed Chanigui AKA @TheChinegami
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning C# and Unity , sql , php ..
 - 💞️ I’m looking to collaborate on ...
