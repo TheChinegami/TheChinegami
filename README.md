@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Chanigui AKA @TheChinegami
 - 👀 I’m interested in Mobile and desktop developpment .
-- 🌱 I’m currently learning more about JEE technology and IA basic terms.
-- 📫 How to reach me E-mail: Mohammed.chanigui@gmail.com
+- 🌱 I’m currently learning more about 3D in Blender.
+- 📫 How to reach me E-mail: Simochang2002@gmail.com
 - || LinkedIn : https://www.linkedin.com/in/mohammed-chanigui-88aa8719b/
 - || More : https://linktr.ee/Mohammed_Chanigui
 - 
